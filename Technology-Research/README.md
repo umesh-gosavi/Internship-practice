@@ -4,8 +4,6 @@
 
 **Data Analytics with Python** is the process of collecting, cleaning, analyzing, and visualizing data using the Python programming language. It helps organizations discover useful insights, identify trends, and make data-driven decisions. Python is widely used because it is easy to learn and offers powerful libraries for data analysis and visualization.
 
----
-
 ## 2. Where is it Used?
 
 Data Analytics with Python is used in many industries, including:
@@ -21,10 +19,7 @@ Data Analytics with Python is used in many industries, including:
 * Telecommunications
 * Government Organizations
 * Logistics and Supply Chain
-
 It is used for business reporting, customer analysis, sales forecasting, fraud detection, market research, and performance analysis.
-
----
 
 ## 3. Required Skill Set
 
@@ -64,8 +59,6 @@ It is used for business reporting, customer analysis, sales forecasting, fraud d
 * Teamwork
 * Time Management
 
----
-
 ## 4. Career Opportunities
 
 After learning Data Analytics with Python, you can work as:
@@ -80,10 +73,7 @@ After learning Data Analytics with Python, you can work as:
 * Python Developer
 * Data Associate
 * Analytics Consultant
-
 Data Analysts are in demand across startups, multinational companies, banks, healthcare organizations, and e-commerce companies.
-
----
 
 ## 5. Future Scope
 
@@ -95,8 +85,6 @@ The future of Data Analytics with Python is very promising.
 * Excellent career growth and competitive salaries.
 * Python continues to be one of the most popular programming languages for data analysis.
 * Organizations increasingly rely on data-driven decision-making, creating more job opportunities for skilled data professionals.
-
----
 
 # Conclusion
 
